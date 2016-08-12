@@ -1,0 +1,88 @@
+body{
+    padding: 50px;
+}
+/*-------------------------------------------*/
+#mainMenu{
+    width: 100%;
+}
+
+.advertisment{
+    width: 250px;
+    height: 200px;
+}
+
+.colorGray
+{
+    background: gray;
+}
+
+.floats{
+    float: left;
+}
+
+.margins{
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.imdbs{
+    height: 150px;
+    width: 474px;    
+}
+
+.imdbbpr{
+    height: 39px;
+    width: 150px;
+}
+
+.clear{
+    clear: both;
+}
+/*-------------------------------------------*/
+#secondMenu{
+    height: 70px;
+    widows: 10%;
+}
+
+.secondMenu{
+    height: 70px;
+    width: 198px;
+    border: 1px solid red;
+}
+/*-------------------------------------------*/
+#search div{
+    height: 70px;
+    width: 81%;
+}
+/*-------------------------------------------*/
+#video div{
+    height: 30px;
+    width: 150px;
+}
+/*-------------------------------------------*/
+.mov{
+    width: 240px;
+    height: 200px;
+}
+/*-------------------------------------------*/
+#news{
+    height: 550px;;
+    width: 600px;
+}
+
+.news{
+    height: 400px;
+    width: 494px;
+}
+.advert{
+    height: 208px;
+}
+/*-------------------------------------------*/
+#footer{
+    height: 70px;
+    width: 81%;
+}
+
+#footer p{
+    text-align: center;
+}
